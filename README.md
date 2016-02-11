@@ -12,3 +12,4 @@ Also had thought I could have used an array of the quotes which are iterated thr
 right one is found and put in. 
 
 Have created the quote generator, just need to work on styling. 
+Added title color change with each quote. 

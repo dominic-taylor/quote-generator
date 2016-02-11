@@ -1,14 +1,17 @@
-#heading, h1, a:link, a:visited {
+.main{
+  text-align: center;
+}
+#heading, a:link, a:visited {
   text-decoration: none;
-  border: 5px black;
-  padding: 50px 0px 25px 0px;
+  border: 5px, black;
+  padding: 50px 0 25px;
   text-align: center;
   color: blue;
 }
 
-#content {
-  text-align: center;
-} 
+#content{ 
+ text-align: center;
+}
 
 #footer {
   margin: 50px;
